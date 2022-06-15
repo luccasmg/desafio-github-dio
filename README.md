@@ -1,2 +1,5 @@
-# desafio-github-dio
-Desafio de Projeto sobre Git/GitHub do Santander Bootcamp DIO
+# Desafio de Projeto sobre Git/GitHub
+Repositório criado para o Desafio de Projeto sobre Git/GitHub do Santander Bootcamp Fullstack Developer na DIO.
+
+## Links Úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
